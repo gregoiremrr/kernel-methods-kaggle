@@ -1,0 +1,20 @@
+Bottleneck @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_55txi4fy1u/croot/bottleneck_1731058642212/work
+cvxopt @ file:///Users/cbousseau/work/recipes/ci_py311/cvxopt_1677970576625/work
+filelock==3.17.0
+fsspec==2025.3.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+mpmath==1.3.0
+networkx==3.4.2
+numexpr @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b3kvvt6tc6/croot/numexpr_1730215947700/work
+numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_f2amvjkczw/croot/numpy_and_numpy_base_1725470317860/work/dist/numpy-2.0.1-cp311-cp311-macosx_11_0_arm64.whl#sha256=1faed35ced6c9bbc9c345982a6f5c2ad89fc0b526315b56fc2cdb4b4ec6f9c42
+pandas @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4aifrweohv/croot/pandas_1732735109535/work/dist/pandas-2.2.3-cp311-cp311-macosx_11_0_arm64.whl#sha256=da1b15a6c44417bf569e7bf374212fb55584fd9af1b0e93fcf861027f70b517e
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+pytz @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4b76c83ik/croot/pytz_1713974318928/work
+scipy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4c2xem2hut/croot/scipy_1737122914559/work/dist/scipy-1.15.1-cp311-cp311-macosx_11_0_arm64.whl#sha256=c312cf2702513694e1ec75a05c5580ff6fa6f36e3fc7578417665b6de4b6f393
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sympy==1.13.1
+torch==2.6.0
+tqdm @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5642tzrprr/croot/tqdm_1738943467095/work
+typing_extensions==4.12.2
+tzdata @ file:///croot/python-tzdata_1690578112552/work
